@@ -1,2 +1,2 @@
 # external-lua-modules
-lua models free to use for Ikemen-GO
+lua modules free to use for Ikemen-GO
